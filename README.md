@@ -20,6 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunkumarrajput&show_icons=true&locale=en&layout=compact" alt="tarunkumarrajput" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumarrajput&show_icons=true&locale=en" alt="tarunkumarrajput" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumarrajput&" alt="tarunkumarrajput" /></p>
