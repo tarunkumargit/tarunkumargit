@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **everything😂😂**
 
-- 🤝2021 Goals **Contributing in open-source projects**
+- 🤝2021 Goals **Contribution in some open-source projects**
 
 - 📫 How to reach me **tarunkumar7973@gmail.com**
 
-- ⚡ Fun fact **HTML isn't a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
