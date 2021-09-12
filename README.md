@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Portfolio-Website**
 
-- 🌱 I’m currently learning **everything😂😂**
+- 🌱 I’m currently learning **Everything😂😂**
 
 - 🤝2021 Goals **Contribution in some open-source projects**
 
