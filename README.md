@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Portfolio-Website**
 
-- 🌱 I’m currently learning **everything😂😂**
+- 🌱 I’m currently learning **Everything😂😂**
 
 - 🤝2021 Goals **Contribution in some open-source projects**
 
@@ -34,48 +34,46 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&hide=contribs&show_icons=true&theme=gruvbox" alt="tarunkumargit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=gruvbox" alt="tarunkumargit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688150%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519400%20lines%20of%20code-blue)
+**🐱 My GitHub Data** 
 
-**🐱 My Github Data** 
-
-> 🏆 240 Contributions in the Year 2021
+> 🏆 331 Contributions in the Year 2021
  > 
-> 📦 190.8 kB Used in Github's Storage 
+> 📦 149.7 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-🌆 Daytime    77 commits     █████████░░░░░░░░░░░░░░░░   37.56% 
-🌃 Evening    92 commits     ███████████░░░░░░░░░░░░░░   44.88% 
-🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
+🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+🌆 Daytime    108 commits    ██████████░░░░░░░░░░░░░░░   42.02% 
+🌃 Evening    105 commits    ██████████░░░░░░░░░░░░░░░   40.86% 
+🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
-Tuesday      53 commits     ██████░░░░░░░░░░░░░░░░░░░   25.85% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Sunday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68%
+Monday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Tuesday      48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+Wednesday    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Friday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17%
 
 ```
 
@@ -83,34 +81,29 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSX                      12 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.3% 
+JavaScript               10 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   34.82% 
+SCSS                     5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+CSS                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+VS Code                  31 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████████████░░░░░░░░░░   63.16% 
-HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               15 repos            ███████████████░░░░░░░░░░   60.0% 
+SCSS                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/tarunkumargit/tarunkumargit/main/charts/bar_graph.png) 
-
-
- Last Updated on 01/09/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
