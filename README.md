@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate full-stack developer from India who is in love with front-end development.</h3>
-<h3 align="center">For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
