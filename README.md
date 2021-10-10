@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">A passionate full-stack developer from India who is in love with front-end development.</h3>
+<h4 align="left">Hi 👋, I'm Tarun</h4
+<hr />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
+<h4 align="left"passionate full-stack developer from India who is in love with front-end development.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
+🔭 I’m currently working on **My Portfolio-Website**
 
-- 🔭 I’m currently working on **My Portfolio-Website**
+🌱 I’m currently learning **Everything😂😂**
 
-- 🌱 I’m currently learning **Everything😂😂**
+🤝2021 Goals **Contribution in some open-source projects**
 
-- 🤝2021 Goals **Contribution in some open-source projects**
-
-- 📫 How to reach me **tarunkumar7973@gmail.com**
-
+📫 How to reach me **tarunkumar7973@gmail.com**
+<hr />
 ### Languages and tools:
 
  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,8 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p> 
+ <hr />
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
@@ -108,7 +108,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <hr>
-
 <p align="center">
   <img src="https://github.com/tarunkumargit/tarunkumargit/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
