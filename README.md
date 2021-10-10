@@ -1,6 +1,7 @@
 <h4>Hi 👋, I'm Tarun</h4>
 <hr />
-<h4 align="left"passionate full-stack developer from India who is in love with front-end development.</h4>
+<h4 align="left">A passionate full-stack developer from India who is in love with front-end development.</h4>
+
 <p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
 
