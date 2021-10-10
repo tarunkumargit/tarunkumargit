@@ -1,8 +1,10 @@
-<h4 align="left">Hi 👋, I'm Tarun</h4> 
+<h4>Hi 👋, I'm Tarun</h4>
 <hr />
 <h4 align="left"passionate full-stack developer from India who is in love with front-end development.</h4>
+<p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
-🔭 I’m currently working on **My Portfolio-Website** <p align="right"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
+
+🔭 I’m currently working on **My Portfolio-Website** 
 
 🌱 I’m currently learning **Everything😂😂**
 
@@ -23,17 +25,16 @@
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
  <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
  <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
  <img align="left" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p> 
+
+<hr>
 
 ### Coding Stats:
 
