@@ -1,6 +1,6 @@
-<h4 align="left">Hi 👋, I'm Tarun</h4> <p align="right"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
+<h4 align="left">Hi 👋, I'm Tarun</h4> 
 <hr />
-
+<p align="right"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 <h4 align="left"passionate full-stack developer from India who is in love with front-end development.</h4>
 
 🔭 I’m currently working on **My Portfolio-Website**
@@ -30,8 +30,7 @@
  <img align="left" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
 
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
- 
- <hr />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
