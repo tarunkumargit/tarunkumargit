@@ -1,9 +1,8 @@
 <h4 align="left">Hi 👋, I'm Tarun</h4> 
 <hr />
-<p align="right"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 <h4 align="left"passionate full-stack developer from India who is in love with front-end development.</h4>
 
-🔭 I’m currently working on **My Portfolio-Website**
+🔭 I’m currently working on **My Portfolio-Website** <p align="right"><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
 🌱 I’m currently learning **Everything😂😂**
 
