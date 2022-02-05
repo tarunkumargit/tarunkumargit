@@ -4,14 +4,14 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
-
-🔭 I’m currently working on **My Reactjs and Redux skills** 
+🔭 I’m currently working on **My Reactjs and Redux skills**
 
 🌱 I’m currently learning **Everything😂😂**
 
-🤝2021 Goals **Contribution in some open-source projects**
+🤝2022 Goals **Contribution in some open-source projects**
 
 📫 How to reach me **tarunkumar7973@gmail.com**
+
 <hr />
 
 ### Languages and tools:
@@ -33,81 +33,81 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
 <hr>
 
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-888%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 179 Contributions in the Year 2022
- > 
-> 📦 213.0 kB Used in GitHub's Storage 
- > 
+>
+> 📦 213.0 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 18 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 21 Public Repositories
+>
+> 🔑 18 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-🌆 Daytime    230 commits    ███████████░░░░░░░░░░░░░░   45.36% 
-🌃 Evening    194 commits    █████████░░░░░░░░░░░░░░░░   38.26% 
+🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4%
+🌆 Daytime    230 commits    ███████████░░░░░░░░░░░░░░   45.36%
+🌃 Evening    194 commits    █████████░░░░░░░░░░░░░░░░   38.26%
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Tuesday      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Wednesday    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
-Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Saturday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
+Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
+Tuesday      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
+Wednesday    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75%
+Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23%
+Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
+Saturday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4%
 Sunday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               28 hrs 18 mins      █████████████████░░░░░░░░   68.5% 
-SCSS                     8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-JSON                     1 hr 24 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
-Sass                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+💬 Programming Languages:
+JavaScript               28 hrs 18 mins      █████████████████░░░░░░░░   68.5%
+SCSS                     8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83%
+JSON                     1 hr 24 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+Sass                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
 CSS                      1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  41 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               22 repos            █████████████░░░░░░░░░░░░   55.0% 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               22 repos            █████████████░░░░░░░░░░░░   55.0%
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5%
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 Sass                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
+Last Updated on 05/02/2022 11:04:21 UTC
 
-
- Last Updated on 05/02/2022 11:04:21 UTC
 <!--END_SECTION:waka-->
 
 <hr>
