@@ -4,7 +4,7 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
-🔭 I’m currently working on **My Reactjs and Redux skills**
+🔭 I’m currently working as **Reactjs / Frontend Developer**
 
 🌱 I’m currently learning **Everything😂😂**
 
