@@ -40,7 +40,7 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -81,9 +81,10 @@ Sunday                   84 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 48 mins       ████████████████████████░   97.74 % 
+JavaScript               9 hrs 48 mins       ████████████████████████░   97.72 % 
 JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
@@ -103,7 +104,7 @@ Sass                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2023 00:49:39 UTC
+ Last Updated on 31/03/2023 00:48:56 UTC
 <!--END_SECTION:waka-->
 
 <hr>
