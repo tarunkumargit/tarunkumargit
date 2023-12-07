@@ -40,21 +40,19 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2037%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 252.8 kB Used in GitHub's Storage 
+> 📦 259.7 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2023
+> 🏆 131 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -90,17 +88,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               30 repos            ███████████████░░░░░░░░░░   60.00 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-SCSS                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sass                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JavaScript               31 repos            ███████████████░░░░░░░░░░   60.78 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+SCSS                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Sass                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 06/12/2023 00:43:56 UTC
+ Last Updated on 07/12/2023 00:43:41 UTC
 <!--END_SECTION:waka-->
 
 <hr>
