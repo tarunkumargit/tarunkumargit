@@ -6,7 +6,7 @@
 
 🔭 I’m currently working as **React.js / Frontend Developer**
 
-🌱 I’m currently learning **Everything😂😂**
+🌱 I’m currently learning **Everything**
 
 🤝2022 Goals **Contribution in some open-source projects**
 
