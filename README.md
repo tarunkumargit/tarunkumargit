@@ -40,6 +40,8 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2037%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -98,7 +100,7 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:51:30 UTC
+ Last Updated on 17/06/2024 00:48:44 UTC
 <!--END_SECTION:waka-->
 
 <hr>
