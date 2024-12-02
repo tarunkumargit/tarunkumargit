@@ -40,6 +40,8 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2037%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -98,7 +100,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 01:11:12 UTC
+ Last Updated on 02/12/2024 01:03:26 UTC
 <!--END_SECTION:waka-->
 
 <hr>
