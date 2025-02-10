@@ -1,14 +1,11 @@
 <h4>Hi 👋, I'm Tarun</h4>
 <hr />
-<h4 align="left">In love with front-end development.</h4>
+<h4 align="left">As a proactive and results-driven professional, I bring extensive experience in project coordination, planning and
+ ensuring seamless execution of tasks in given timelines.</h4>
 
 <p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
 🔭 I’m currently working as **React.js / Frontend Developer**
-
-🌱 I’m currently learning **Everything**
-
-🤝2022 Goals **Contribution in some open-source projects**
 
 📫 How to reach me **tarunkumar7973@gmail.com**
 
