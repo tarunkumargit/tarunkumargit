@@ -99,6 +99,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
  Last Updated on 12/02/2025 00:57:15 UTC
+ <h4 align="left">NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</h4>
 <!--END_SECTION:waka-->
 
 <hr>
