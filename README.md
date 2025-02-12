@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
 
 <hr>
 
