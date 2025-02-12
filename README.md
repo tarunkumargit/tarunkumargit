@@ -28,7 +28,7 @@
  <img align="left" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
 
