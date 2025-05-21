@@ -30,7 +30,7 @@
 
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumargit&show_icons=true&theme=react" alt="tarunkumargit" />
 
 <hr>
 
@@ -104,8 +104,3 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
  Last Updated on 21/05/2025 01:06:32 UTC
 <!--END_SECTION:waka-->
-
-<hr>
-<p align="center">
-  <img src="https://github.com/tarunkumargit/tarunkumargit/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
