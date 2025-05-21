@@ -5,7 +5,7 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=tarunkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumargit" /> </p>
 
-🔭 I’m currently working as **React.js / Frontend Developer**
+🔭 I’m currently working as **Frontend Developer**
 
 📫 How to reach me **tarunkumar7973@gmail.com**
 
