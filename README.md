@@ -35,8 +35,6 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C298%20hrs%2019%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -64,5 +62,5 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 01:00:53 UTC
+ Last Updated on 03/10/2025 01:00:29 UTC
 <!--END_SECTION:waka-->
