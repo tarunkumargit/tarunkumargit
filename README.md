@@ -76,10 +76,11 @@ Sunday                   112 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               31 mins             ████████████████████████░   95.58 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +96,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 01:04:54 UTC
+ Last Updated on 21/11/2025 01:05:42 UTC
 <!--END_SECTION:waka-->
