@@ -35,13 +35,15 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.99%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C879%20hrs%204%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.4 kB Used in GitHub's Storage 
  > 
-> 🏆 400 Contributions in the Year 2026
+> 🏆 405 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,6 +51,41 @@
  > 
 > 🔑 59 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+🌆 Daytime                1916 commits        ███████████░░░░░░░░░░░░░░   44.15 % 
+🌃 Evening                2102 commits        ████████████░░░░░░░░░░░░░   48.43 % 
+🌙 Night                  38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   772 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                871 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Thursday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   902 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Saturday                 161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Sunday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               8 hrs 55 mins       ███████████████████████░░   91.82 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -62,5 +99,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:02:03 UTC
+ Last Updated on 26/07/2026 02:06:16 UTC
 <!--END_SECTION:waka-->
