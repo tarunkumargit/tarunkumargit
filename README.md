@@ -35,7 +35,7 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C884%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
@@ -78,23 +78,23 @@ Sunday                   145 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 55 mins      ████████████████████████░   97.08 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               19 hrs 23 mins      ████████████████████████░   97.52 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 13 mins      ███████████████████████░░   93.36 % 
-Antigravity IDE          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+VS Code                  18 hrs 39 mins      ███████████████████████░░   93.84 % 
+Antigravity IDE          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (9.06%)
+⏱ AI Coding Time: 1 hr 40 mins (8.41%)
 
-✍️ 161 lines written by AI, 1,655 lines written by hand (8.87% AI-written)
+✍️ 161 lines written by AI, 1,898 lines written by hand (7.82% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -105,10 +105,10 @@ Antigravity IDE          1 hr 13 mins        ██░░░░░░░░░�
 Gemini                   217 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.87% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.82% of written lines came from AI
 📄 Detailed Prompter — average 921 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,5 +124,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:07:38 UTC
+ Last Updated on 01/08/2026 02:09:03 UTC
 <!--END_SECTION:waka-->
