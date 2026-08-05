@@ -35,7 +35,7 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
@@ -78,37 +78,20 @@ Sunday                   145 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 11 mins       █████████████████████████   98.19 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               7 hrs 15 mins       ████████████████████████░   94.01 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        ████████████████████████░   96.96 % 
-Antigravity IDE          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+VS Code                  7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (7.32%)
-
-✍️ 17 lines written by AI, 1,032 lines written by hand (1.62% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Gemini                   17 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.62% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.1% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,5 +107,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:53:19 UTC
+ Last Updated on 05/08/2026 01:54:04 UTC
 <!--END_SECTION:waka-->
