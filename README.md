@@ -35,7 +35,7 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
@@ -78,14 +78,14 @@ Sunday                   145 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 15 mins       ████████████████████████░   94.01 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               6 hrs 32 mins       ███████████████████████░░   93.33 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,5 +107,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 01:54:04 UTC
+ Last Updated on 06/08/2026 01:55:25 UTC
 <!--END_SECTION:waka-->
