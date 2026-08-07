@@ -35,17 +35,13 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2053%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.6 kB Used in GitHub's Storage 
  > 
-> 🏆 421 Contributions in the Year 2026
+> 🏆 422 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,59 +49,18 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-🌆 Daytime                1911 commits        ███████████░░░░░░░░░░░░░░   44.08 % 
-🌃 Evening                2104 commits        ████████████░░░░░░░░░░░░░   48.54 % 
-🌙 Night                  37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   773 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Tuesday                  773 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                874 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 715 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   897 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Saturday                 158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Sunday                   145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 32 mins       ███████████████████████░░   93.33 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  7 hrs               █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               48 repos            ███████████████░░░░░░░░░░   60.00 % 
-TypeScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-SCSS                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Sass                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JavaScript               48 repos            ███████████████░░░░░░░░░░   59.26 % 
+TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+SCSS                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sass                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 06/08/2026 01:55:25 UTC
+ Last Updated on 07/08/2026 02:17:16 UTC
 <!--END_SECTION:waka-->
