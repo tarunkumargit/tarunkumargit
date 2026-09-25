@@ -78,18 +78,36 @@ Sunday                   150 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 mins             █████████████████████░░░░   82.41 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+TypeScript               1 hr                ███████████████████████░░   91.61 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                ███████████████████████░░   90.86 % 
+Antigravity IDE          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (11.38%)
+
+✍️ 11 lines written by AI, 27 lines written by hand (28.95% AI-written)
+
+🔤 71,208 Input Tokens, 12,373 Output Tokens
+
+💵 $0.40 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Gemini                   11 lines            █████████████████████████   100.00 % 
+Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 28.95% of written lines came from AI
+📝 Concise Prompter — average 257 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 91.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +123,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 02:35:30 UTC
+ Last Updated on 25/09/2026 02:52:49 UTC
 <!--END_SECTION:waka-->
