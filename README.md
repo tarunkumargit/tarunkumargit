@@ -78,38 +78,34 @@ Sunday                   154 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 14 mins       ████████████████████████░   97.03 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               5 hrs 13 mins       ████████████████████████░   96.47 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       ███████████████████████░░   91.34 % 
-Antigravity IDE          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (18.07%)
+⏱ AI Coding Time: 21 mins (6.48%)
 
-✍️ 457 lines written by AI, 1,377 lines written by hand (24.92% AI-written)
+✍️ 0 lines written by AI, 1,373 lines written by hand (0.0% AI-written)
 
-🔤 620,776 Input Tokens, 55,546 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $2.70 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
-
-Antigravity-Ide          239 lines           █████████████░░░░░░░░░░░░   52.18 % 
-Gemini                   219 lines           ████████████░░░░░░░░░░░░░   47.82 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.92% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 79.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +121,5 @@ Sass                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 04:00:50 UTC
+ Last Updated on 11/10/2026 03:18:08 UTC
 <!--END_SECTION:waka-->
